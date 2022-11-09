@@ -1,7 +1,7 @@
 ﻿Imports System.Data
 Imports System.Data.SqlClient
 Public Class clsConexion
-	Public conexion As SqlConnection = New SqlConnection("Data Source = MiguelMaquen; Initial Catalog = BDBodegaSosa; User Id = sa; Password = 123456")
+	'Public conexion As SqlConnection = New SqlConnection("Data Source = MiguelMaquen; Initial Catalog = BDBodegaSosa; User Id = sa; Password = 123456")
 	'Public Sub conectar()
 	'Try
 	'		conexion.Open()

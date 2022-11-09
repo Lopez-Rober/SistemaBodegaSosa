@@ -47,6 +47,8 @@ Partial Class Usuario
         Me.Label9 = New System.Windows.Forms.Label()
         Me.Label10 = New System.Windows.Forms.Label()
         Me.txtRol = New System.Windows.Forms.ComboBox()
+        Me.btnReporte = New System.Windows.Forms.Button()
+        Me.btnSetParameter = New System.Windows.Forms.Button()
         CType(Me.DGUsuario, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -118,7 +120,7 @@ Partial Class Usuario
         'Label7
         '
         Me.Label7.AutoSize = True
-        Me.Label7.Location = New System.Drawing.Point(380, 65)
+        Me.Label7.Location = New System.Drawing.Point(366, 65)
         Me.Label7.Name = "Label7"
         Me.Label7.Size = New System.Drawing.Size(52, 13)
         Me.Label7.TabIndex = 5
@@ -208,6 +210,7 @@ Partial Class Usuario
         '
         Me.txtPassword.Location = New System.Drawing.Point(448, 192)
         Me.txtPassword.Name = "txtPassword"
+        Me.txtPassword.PasswordChar = Global.Microsoft.VisualBasic.ChrW(42)
         Me.txtPassword.Size = New System.Drawing.Size(121, 20)
         Me.txtPassword.TabIndex = 20
         '
@@ -265,11 +268,31 @@ Partial Class Usuario
         Me.txtRol.Size = New System.Drawing.Size(121, 21)
         Me.txtRol.TabIndex = 26
         '
+        'btnReporte
+        '
+        Me.btnReporte.Location = New System.Drawing.Point(711, 224)
+        Me.btnReporte.Name = "btnReporte"
+        Me.btnReporte.Size = New System.Drawing.Size(75, 23)
+        Me.btnReporte.TabIndex = 27
+        Me.btnReporte.Text = "Reporte"
+        Me.btnReporte.UseVisualStyleBackColor = True
+        '
+        'btnSetParameter
+        '
+        Me.btnSetParameter.Location = New System.Drawing.Point(647, 264)
+        Me.btnSetParameter.Name = "btnSetParameter"
+        Me.btnSetParameter.Size = New System.Drawing.Size(139, 23)
+        Me.btnSetParameter.TabIndex = 28
+        Me.btnSetParameter.Text = "Report Parameters"
+        Me.btnSetParameter.UseVisualStyleBackColor = True
+        '
         'Usuario
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(861, 612)
+        Me.Controls.Add(Me.btnSetParameter)
+        Me.Controls.Add(Me.btnReporte)
         Me.Controls.Add(Me.txtRol)
         Me.Controls.Add(Me.Label10)
         Me.Controls.Add(Me.txtEstado)
@@ -329,4 +352,6 @@ Partial Class Usuario
     Friend WithEvents Label9 As Label
     Friend WithEvents Label10 As Label
     Friend WithEvents txtRol As ComboBox
+    Friend WithEvents btnReporte As Button
+    Friend WithEvents btnSetParameter As Button
 End Class
