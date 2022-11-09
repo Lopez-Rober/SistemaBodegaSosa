@@ -18,3 +18,13 @@ C:\Users\MiguelMaquen\source\repos\BodegaSosa\CapaEntidad\obj\Debug\CapaEntidad.
 C:\Users\MiguelMaquen\source\repos\BodegaSosa\CapaEntidad\obj\Debug\CapaEntidad.dll
 C:\Users\MiguelMaquen\source\repos\BodegaSosa\CapaEntidad\obj\Debug\CapaEntidad.xml
 C:\Users\MiguelMaquen\source\repos\BodegaSosa\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\2022-II\PAM\BodegaSosa\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\2022-II\PAM\BodegaSosa\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\2022-II\PAM\BodegaSosa\CapaEntidad\bin\Debug\CapaEntidad.xml
+D:\2022-II\PAM\BodegaSosa\CapaEntidad\obj\Debug\CapaEntidad.vbproj.AssemblyReference.cache
+D:\2022-II\PAM\BodegaSosa\CapaEntidad\obj\Debug\CapaEntidad.Resources.resources
+D:\2022-II\PAM\BodegaSosa\CapaEntidad\obj\Debug\CapaEntidad.vbproj.GenerateResource.cache
+D:\2022-II\PAM\BodegaSosa\CapaEntidad\obj\Debug\CapaEntidad.vbproj.CoreCompileInputs.cache
+D:\2022-II\PAM\BodegaSosa\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\2022-II\PAM\BodegaSosa\CapaEntidad\obj\Debug\CapaEntidad.xml
+D:\2022-II\PAM\BodegaSosa\CapaEntidad\obj\Debug\CapaEntidad.pdb

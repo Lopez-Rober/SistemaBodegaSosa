@@ -40,3 +40,17 @@ C:\Users\MiguelMaquen\source\repos\BodegaSosa\CapaDatos\obj\Debug\CapaDatos.vbpr
 C:\Users\MiguelMaquen\source\repos\BodegaSosa\CapaDatos\obj\Debug\CapaDatos.dll
 C:\Users\MiguelMaquen\source\repos\BodegaSosa\CapaDatos\obj\Debug\CapaDatos.xml
 C:\Users\MiguelMaquen\source\repos\BodegaSosa\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\2022-II\PAM\BodegaSosa\CapaDatos\bin\Debug\CapaDatos.dll
+D:\2022-II\PAM\BodegaSosa\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\2022-II\PAM\BodegaSosa\CapaDatos\bin\Debug\CapaDatos.xml
+D:\2022-II\PAM\BodegaSosa\CapaDatos\bin\Debug\CapaEntidad.dll
+D:\2022-II\PAM\BodegaSosa\CapaDatos\bin\Debug\CapaEntidad.pdb
+D:\2022-II\PAM\BodegaSosa\CapaDatos\bin\Debug\CapaEntidad.xml
+D:\2022-II\PAM\BodegaSosa\CapaDatos\obj\Debug\CapaDatos.vbproj.AssemblyReference.cache
+D:\2022-II\PAM\BodegaSosa\CapaDatos\obj\Debug\CapaDatos.Resources.resources
+D:\2022-II\PAM\BodegaSosa\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.cache
+D:\2022-II\PAM\BodegaSosa\CapaDatos\obj\Debug\CapaDatos.vbproj.CoreCompileInputs.cache
+D:\2022-II\PAM\BodegaSosa\CapaDatos\obj\Debug\CapaDatos.vbproj.CopyComplete
+D:\2022-II\PAM\BodegaSosa\CapaDatos\obj\Debug\CapaDatos.dll
+D:\2022-II\PAM\BodegaSosa\CapaDatos\obj\Debug\CapaDatos.xml
+D:\2022-II\PAM\BodegaSosa\CapaDatos\obj\Debug\CapaDatos.pdb

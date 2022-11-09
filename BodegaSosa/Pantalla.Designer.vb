@@ -89,7 +89,7 @@ Partial Class Pantalla
         Me.btnUsuario.IconColor = System.Drawing.Color.Blue
         Me.btnUsuario.IconFont = FontAwesome.Sharp.IconFont.[Auto]
         Me.btnUsuario.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.btnUsuario.Location = New System.Drawing.Point(3, 479)
+        Me.btnUsuario.Location = New System.Drawing.Point(3, 413)
         Me.btnUsuario.Name = "btnUsuario"
         Me.btnUsuario.Size = New System.Drawing.Size(281, 60)
         Me.btnUsuario.TabIndex = 13
@@ -100,6 +100,7 @@ Partial Class Pantalla
         '
         Me.btnReportes.BackColor = System.Drawing.Color.AliceBlue
         Me.btnReportes.Cursor = System.Windows.Forms.Cursors.Arrow
+        Me.btnReportes.Enabled = False
         Me.btnReportes.FlatAppearance.BorderSize = 0
         Me.btnReportes.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btnReportes.ForeColor = System.Drawing.Color.Blue
@@ -107,12 +108,13 @@ Partial Class Pantalla
         Me.btnReportes.IconColor = System.Drawing.Color.Blue
         Me.btnReportes.IconFont = FontAwesome.Sharp.IconFont.[Auto]
         Me.btnReportes.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.btnReportes.Location = New System.Drawing.Point(3, 413)
+        Me.btnReportes.Location = New System.Drawing.Point(6, 479)
         Me.btnReportes.Name = "btnReportes"
         Me.btnReportes.Size = New System.Drawing.Size(281, 60)
         Me.btnReportes.TabIndex = 11
         Me.btnReportes.Text = "Reportes"
         Me.btnReportes.UseVisualStyleBackColor = False
+        Me.btnReportes.Visible = False
         '
         'btnVentas
         '

@@ -18,7 +18,7 @@ Public Class ClsVentas
 
     Public Function CD_listarVenta() As DataTable
         Dim dt As New DataTable
-        Dim da As New SqlDataAdapter("SP_LISTAR_VENTA", cn)
+        Dim da As New SqlDataAdapter("SP_Get_Listar_Venta", cn)
         da.SelectCommand.CommandType = CommandType.StoredProcedure
         da.Fill(dt)
         Return dt

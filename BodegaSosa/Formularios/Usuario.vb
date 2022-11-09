@@ -68,4 +68,12 @@ Public Class Usuario
         txtPassword.Text = ""
         txtEstado.Text = ""
     End Sub
+
+    Private Sub btnReporte_Click(sender As Object, e As EventArgs) Handles btnReporte.Click
+        FormUsuarios.Show()
+    End Sub
+
+    Private Sub btnSetParameter_Click(sender As Object, e As EventArgs) Handles btnSetParameter.Click
+        FormSetUsuarios.Show()
+    End Sub
 End Class
