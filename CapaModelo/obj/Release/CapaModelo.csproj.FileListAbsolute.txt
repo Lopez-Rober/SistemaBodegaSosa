@@ -1,0 +1,6 @@
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\CapaModelo\bin\Release\CapaModelo.dll
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\CapaModelo\bin\Release\CapaModelo.pdb
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\CapaModelo\obj\Release\CapaModelo.csproj.AssemblyReference.cache
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\CapaModelo\obj\Release\CapaModelo.csproj.CoreCompileInputs.cache
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\CapaModelo\obj\Release\CapaModelo.dll
+D:\DATA\2021-2\Desarrollo de aplicaciones distribuidas\WEB\Pimentel_Promotora\PA_PP\CapaModelo\obj\Release\CapaModelo.pdb
